@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abbes</h1>
 <h3 align="center">A passionate Software Engineer specialized in building mobile apps for Android and iOS.</h3>
-<iframe src="https://giphy.com/embed/7J4P7cUur2DlErijp3" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3">via GIPHY</a></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbesdev" alt="abbesdev" /></a> </p>
+
+<p align="center"><img src="https://i.giphy.com/media/7J4P7cUur2DlErijp3/giphy.webp" alt="abbesdev" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbesdev" alt="abbesdev" /></a> </p>
+
 
 - 🔭 I’m currently working on [Tasky](In progress)
 
