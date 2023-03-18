@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Swift and SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://abbesmohamed.tech/](https://abbesmohamed.tech/)
+- 👨‍💻 All of my projects are available at [https://abbesdev.me/](https://abbesdev.me/)
 
 - 📝 I regularly write articles on [https://medium.com/@abbesmohamed45](https://medium.com/@abbesmohamed45)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abbesmohamed490@gmail.com**
 
-- 📄 Know about my experiences [https://abbesmohamed.tech/about.html](https://abbesmohamed.tech/about.html)
+- 📄 Know about my experiences [https://abbesdev.me/about.html](https://abbesdev.me/about.html)
 
 - ⚡ Fun fact **Don't mention svg animations to me please !**
 
