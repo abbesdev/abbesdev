@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abbes<br/></h1>
-<h3 align="center">A passionate Software Developer specialized in building mobile apps for Android and iOS.</h3>
+<h3 align="center">A passionate Mobile Developer specialized in building mobile apps for Android and iOS.</h3>
 
 <p align="center"><img src="https://i.giphy.com/media/7J4P7cUur2DlErijp3/giphy.webp" alt="abbesdev" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbesdev" alt="abbesdev" /></a> </p>
-
-
-- 🔭 I’m currently working on [Tasky](In progress)
 
 - 🌱 I’m currently learning **Swift and SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://abbesdev.me/](https://abbesdev.me/)
 
-- 📝 I regularly write articles on [https://medium.com/@abbesmohamed45](https://medium.com/@abbesmohamed45)
-
-- 💬 Ask me about **Kotlin, Java, Flutter, Dart**
-
 - 📫 How to reach me **abbesmohamed490@gmail.com**
 
 - 📄 Know about my experiences [https://abbesdev.me/about.html](https://abbesdev.me/about.html)
-
-- ⚡ Fun fact **Don't mention svg animations to me please !**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
