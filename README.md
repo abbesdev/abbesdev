@@ -6,11 +6,10 @@
 
 - 🌱 I’m currently learning **Swift and SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://abbesdev.me/](https://abbesdev.me/)
+- 👨‍💻 All of my projects are available at [https://abbesmohamed.framer.website/](https://abbesmohamed.framer.website/)
+- 📫 How to reach me **abbesdev.work@gmail.com**
 
-- 📫 How to reach me **abbesmohamed490@gmail.com**
-
-- 📄 Know about my experiences [https://abbesdev.me/about.html](https://abbesdev.me/about.html)
+- 📄 Know about my experiences [https://abbesmohamed.framer.website/](https://abbesmohamed.framer.website/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
